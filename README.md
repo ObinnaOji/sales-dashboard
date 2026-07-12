@@ -14,5 +14,6 @@ My first Power BI project — a company-wide sales performance dashboard built t
 - Sales breakdown by country, customer segment and region
 - Top customers by revenue
 
-## Status
-Completed as my first Power BI project. Built before the E-Commerce Analytics dashboard to learn the basics of Power BI.
+In order to do this i had to do data modelling. I then created a date table for better graphs. Finally i added measurments and then worked on the design.
+
+This was my second power bi project after the ecommerce one also posted on my accound. I have learned alot between the times of making both of these projects and was able to make alot of improvements. More to come.
