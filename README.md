@@ -6,7 +6,8 @@ My first Power BI project — a company-wide sales performance dashboard built t
 ## Tools Used
 - Power BI Desktop
 
-<img width="1177" height="647" alt="image" src="https://github.com/user-attachments/assets/9cfc1b0e-1627-4259-bb00-748edcf3b12a" />
+<img width="1168" height="647" alt="image" src="https://github.com/user-attachments/assets/bd9aa9b9-ebec-4c95-92b5-e7fe0c7d7867" />
+
 
 
 ## What I Built
