@@ -1,7 +1,7 @@
 # Sales Dashboard (Power BI)
 
 ## Overview
-My first Power BI project — a company-wide sales performance dashboard built to analyse revenue, profit, and sales trends.
+A company-wide sales performance dashboard built to analyse revenue, profit, and sales trends.
 
 ## Tools Used
 - Power BI Desktop
@@ -18,4 +18,4 @@ My first Power BI project — a company-wide sales performance dashboard built t
 
 In order to do this i had to do data modelling. I then created a date table for better graphs. Finally i added measurments and then worked on the design.
 
-This was my second power bi project after the ecommerce one also posted on my accound. I have learned alot between the times of making both of these projects and was able to make alot of improvements. More to come.
+This was my second power bi project after the ecommerce one also posted on my account. I have learned alot between the times of making both of these projects and was able to make alot of improvements. More to come.
